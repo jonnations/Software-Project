@@ -1,6 +1,11 @@
 #!/usr/bin/env python
 # utf-8
 
+"""Created by Jon Nations for BIOL7800 at LSU, Spring 2016.
+This proram takes mammal data from the Amniote Life History Database and
+outputs several plots and tables with descriptive statistics on body mass
+and size. 
+Feel free to use and distribute. contact: jnatio5@lsu.edu"""
 
 import numpy as np
 import pandas as pd
