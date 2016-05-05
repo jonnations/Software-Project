@@ -5,6 +5,9 @@ These two programs use data from the Amniote Life History Database (N.P. Myhrvol
 
 ## Requirements:
 There are two programs available: ```Mammalia.py``` and ```amniote_mass.py```. Both of these require python 3.5 and Anaconda, which is available at <https://www.continuum.io/downloads>. There are several modules to import, and Anaconda makes this easy. 
+
+To install bokeh, the visualization package, please run ```conda install bokeh``` in Anaconda.
+
 This also requires the Amniote Life History Database as an input file. It is available at <http://esapubs.org/archive/ecol/E096/269/#data> under the name `Amniote_Database_Aug_2015.csv`. 
 
 ## Use:
